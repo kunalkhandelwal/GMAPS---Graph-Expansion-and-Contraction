@@ -24,6 +24,11 @@ A map consists of layers, where every layer has a specific zoom level. These lay
 
 Our Logic & Implementation: We have created a node consisting of 3 attributes. • Name of Place (String) • Location of Place - Latitudes & Longitudes (int, int) • Pointer (int)
 
+The Two main functions of the code –
+
+ZoomIn() – It increments the node pointer of the locations to 1, to print the locations present in between.
+
+ZoomOut() – It decrements the node pointer with value 1 to 0, to make the Zoom out feature of the graph work
 
 
 
