@@ -30,6 +30,20 @@ ZoomIn() – It increments the node pointer of the locations to 1, to print the 
 
 ZoomOut() – It decrements the node pointer with value 1 to 0, to make the Zoom out feature of the graph work
 
+Working: • Whenever the “+” button is clicked, the Zoomin() function is called, which increases the number of locations displayed on the map, simultaneously the Data Structures tab is updated.
+
+• Whenever the “-” button is clicked, the Zoomout() function is called, which decreases the number of locations displayed on the map, simultaneously the Data Structures tab is updated.
+
+All the points which are visible on the map are printed on the left side of the screen.
+
+Other Practical Applications of GE&C • Computer Aided Design software’s like AutoCAD • Solid Face • Sketch Art
+
+Video Link – https://drive.google.com/file/d/1_wJPoYGAupIKQ-2hvjq-zTM1_4yj_jJx/view?usp=sharing
+
+
+
+
+
 
 
 
