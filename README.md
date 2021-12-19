@@ -22,7 +22,8 @@ Basic Documentation Idea:
 
 A map consists of layers, where every layer has a specific zoom level. These layers are placed on upon the other. Whenever a map is zoomed in or zoomed out the layer displayed is changed accordingly. It uses the concept of 3D Matrix which integrates the locations inside the graph depending upon the value of Z (zoom level).
 
-Our Logic & Implementation: We have created a node consisting of 3 attributes. • Name of Place (String) • Location of Place - Latitudes & Longitudes (int, int) • Pointer (int)
+Our Logic & Implementation: We have created a node consisting of 3 attributes.
+• Name of Place (String) • Location of Place - Latitudes & Longitudes (int, int) • Pointer (int)
 
 The Two main functions of the code –
 
