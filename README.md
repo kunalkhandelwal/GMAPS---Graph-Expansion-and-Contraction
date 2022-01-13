@@ -1,6 +1,6 @@
 # GMAPS - Graph-Expansion-and-Contraction
 
-The Project encounters the idea of Graph Expansion and Contraction used in Google Maps and Design software's like AutoCad.
+The Project encounters the idea of Graph Expansion and Contraction used in Google Maps and Design softwares' like AutoCad.
 
 Project Report GRAPH EXPANSION AND CONTRACTION DAA (Design and Analysis of Algorithms) | CST352 | 17.10.2020 
 
