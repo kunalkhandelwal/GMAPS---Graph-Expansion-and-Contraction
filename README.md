@@ -12,7 +12,7 @@ Under the guidance of: Dr. Manoj Chandak HOD, Department of Computer Science
 
 17th October 2020
 
-Dept. of Computer Science & Engineering
+Dept. of Computer Science and Engineering
 
 Project Description
 
