@@ -1,5 +1,5 @@
+#importing libraries matplotlib and tkinter
 import matplotlib.pyplot as plt
-
 import tkinter as tk
 
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
