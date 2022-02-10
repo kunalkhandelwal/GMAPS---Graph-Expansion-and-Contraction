@@ -6,7 +6,7 @@ GRAPH EXPANSION AND CONTRACTION DAA (Design and Analysis of Algorithms) | CST352
 
 “Graph Expansion & Contraction”
 
-Submitted by: A-40 Atharva Sawarkar A-52 Kunal Khandelwal A-86 Yash Telkhade
+Submitted by: A-40 Atharva Sawarkar A-52 Kunal Khandelwal and A-86 Yash Telkhade
 
 Under the guidance of: Dr. Manoj Chandak HOD, Department of Computer Science
 
