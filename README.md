@@ -16,7 +16,7 @@ Dept. of Computer Science and Engineering
 
 Project Description
 
-Problem Statement: With the help of created zoomin() and zoomout() functions, display all the points that lie in the path of the source and the destination. Display the map on the right side of the screen and the Data Structures on the left side of the screen.
+Problem Statement: With the help of created zoomin() & zoomout() functions, display all the points that lie in the path of the source and the destination. Display the map on the right side of the screen and the Data Structures on the left side of the screen.
 
 Basic Documentation Idea:
 
