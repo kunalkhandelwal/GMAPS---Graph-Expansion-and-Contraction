@@ -1,4 +1,4 @@
-#importing libraries matplotlib and tkinter
+#importing libraries like matplotlib and tkinter
 import matplotlib.pyplot as plt
 import tkinter as tk
 
